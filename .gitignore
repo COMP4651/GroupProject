@@ -3,3 +3,4 @@
 tfidf/*
 tfidf.parquet/*
 *.npy
+tfidf.json/*
